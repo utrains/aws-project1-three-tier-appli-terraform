@@ -1,2 +1,2 @@
-# aws-project1-three-tier-appli-terraform
-Provision three tier application on AWS using Terraform
+# three-tier-arch-aws-terraform
+Provision three tier architecture on AWS using Terraform
